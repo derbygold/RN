@@ -1,7 +1,5 @@
 Examples demonstrating how PHP TimeCop works
 php
-examples
-example
 blog-article
 example-project
 potherca
